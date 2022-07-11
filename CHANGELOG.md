@@ -1,3 +1,5 @@
+FORKED
+
 Release 21 (tag v1.0.6): Fix for the issue 28 (security issue in middleware)
 
 Release 20 (tag v1.0.5): Feature
